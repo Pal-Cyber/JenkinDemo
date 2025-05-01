@@ -4,7 +4,7 @@ pipeline {
         nodejs 'NodeJS23' 
     } 
     environment { 
-        REPO_URL = 'https://github.com/Pal-Cyber/Practice.git' 
+        REPO_URL = 'https://github.com/Pal-Cyber/JenkinDemo.git' 
         BUILD_DIR = 'build' 
         PORT = '5000' 
     } 
